@@ -3,3 +3,17 @@ To build our face recognition system, we’ll first perform face detection, extr
 
 about face recognition 
 Face recognition is a method for locating or authenticating the face in digital photographs or video frames. A human can easily and rapidly recognise the faces. For us, it is a simple task, but for a computer, it is challenging. There are many difficulties, including low resolution, occlusion, different lighting conditions, etc. These elements have a significant impact on how accurately the computer can identify faces. The distinction between face detection and face recognition must first be understood.
+
+#APP GUI
+Home Page
+Add a User
+Add the user you want to train a classifier for
+
+Capture Data and Train Classifier
+Capture Data From the face then train the classifier
+
+Users List
+List of all the users
+
+Recognition
+A webcam window will popup and start recognition proccess
